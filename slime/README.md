@@ -27,7 +27,7 @@ The following products are available in our shop.
 
 ### Yellow Tea Slime
 ![Yellow Tea Slime](assets/yellow-tea.webp)
-<br/>**Color:** The slime is a vibrant, bright yellow color.
+<br/>**Color:** The slime is a brilant, bright yellow color.
 <br/>**Texture:** Thick and gooey slime with a somewhat translucent quality with a slightly glossy sheen.
 
 ---
