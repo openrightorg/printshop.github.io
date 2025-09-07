@@ -17,7 +17,7 @@ The following products are available in our shop.
 ### Lemon Slime
 ![Lemon Slime](assets/lemon-slime.webp)
 <br/>**Color:** The slime is a pale yellow color.
-<br/>**Texture:** It has a slightly goopy, viscous texture.
+<br/>**Texture:** It has a slightly gooey, and shiny viscous texture.
 <br/>**Contents:** The slime contains yellow glitter, giving a sparkly appearance and small suspending foam beads.
 
 ### Wiggle Blue Slime
