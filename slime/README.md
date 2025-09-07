@@ -6,7 +6,7 @@ Welcome to the Fun Slime Showcase, presenting our delightful slime products.
 
 ## Products
 
-The following products are available at our shop.
+The following products are available in our shop.
 
 ### Jelly Blue Slime
 ![Jelly Blue Slime](assets/jelly-blue.webp)
