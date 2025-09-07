@@ -1,0 +1,3 @@
+Color: The slime is a vibrant, light blue color.
+Texture: A thick, jelly-like slime. It has a slightly glossy sheen.
+Contents: The slime contains sparkly glitter and suspended foam beads.
