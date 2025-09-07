@@ -1,4 +1,4 @@
-# Slime Showcase
+# Fun slime Showcase
 
 Welcome to the Slime Showcase, presenting our delightful slime products.
 
