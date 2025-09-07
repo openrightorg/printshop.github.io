@@ -1,4 +1,4 @@
-title: Home
+title: Printshop
 
 markdown: GFM
 
@@ -11,3 +11,7 @@ plugins:
 
 minima:
   skin: auto
+
+  nav_pages:
+    - printshop/index.md
+    - slime/index.md
