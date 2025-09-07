@@ -12,13 +12,13 @@ The following products are available in our shop.
 ![Jelly Blue Slime](assets/jelly-blue.webp)
 <br/>**Color:** The slime is a vibrant, light blue color.
 <br/>**Texture:** A thick, jelly‑like slime. It has a slightly glossy sheen.
-<br/>**Contents:** The slime contains sparkly glitter and suspended foam beads.
+<br/>**Contents:** The slime contains shiny blue glitter and suspended foam beads.
 
 ### Lemon Slime
 ![Lemon Slime](assets/lemon-slime.webp)
 <br/>**Color:** The slime is a pale yellow color.
 <br/>**Texture:** It has a slightly goopy, viscous texture.
-<br/>**Contents:** The slime contains glitter, giving a sparkly appearance and small suspending foam beads.
+<br/>**Contents:** The slime contains yellow glitter, giving a sparkly appearance and small suspending foam beads.
 
 ### Wiggle Blue Slime
 ![Wiggle Blue Slime](assets/wiggle-blue.webp)
