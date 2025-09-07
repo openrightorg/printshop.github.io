@@ -6,7 +6,7 @@ Welcome to the Slime Showcase, presenting our delightful slime products.
 
 ## Products
 
-The following products are available in our collection. Each section displays an image of the slime and a short description extracted from the corresponding text file.
+The following products are available in our collection.
 
 ### Jelly Blue Slime
 ![Jelly Blue Slime](assets/jelly-blue.webp)
