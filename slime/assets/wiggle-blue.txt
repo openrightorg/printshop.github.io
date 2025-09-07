@@ -1,0 +1,2 @@
+Color: The slime is a vibrant, deep blue color.
+Texture: Thick, gooey slime with a glossy sheen.

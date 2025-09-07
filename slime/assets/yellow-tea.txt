@@ -1,0 +1,2 @@
+Color: The slime is a vibrant, bright yellow color.
+Texture: Thick and gooey slime with a somewhat translucent quality with a slightly glossy sheen.

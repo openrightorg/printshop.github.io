@@ -1,0 +1,3 @@
+Color: The slime is a pale yellow color.
+Texture: It has a slightly goopy, viscous texture.
+Contents: The slime contains glitter, giving a sparkly appearance and small suspending foam beads.
