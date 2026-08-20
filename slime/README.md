@@ -1,6 +1,6 @@
 # Fun slime Showcase
 
-Welcome to the Slime Showcase, presenting our delightful slime products.
+Welcome to the Slime Showcase, presenting our slime products.
 
 ---
 
